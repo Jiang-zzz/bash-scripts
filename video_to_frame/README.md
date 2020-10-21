@@ -1,0 +1,1 @@
+used for cv project. Much efficient than saving frames from open-cv
